@@ -1,2 +1,8 @@
 # hello-world
-Ideas, resources, and unidentified ojects
+Ideas, resources, and unidentified ojects. 
+You find those things here...
+
+Hi Humans!
+
+Hubot here, I like Node.js and Cofeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
